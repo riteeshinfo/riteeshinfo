@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm G.Riteesh</h1>
-<h3 align="center">A passionate frontend developer,machine learning engineering</h3>
+<h3 align="center">A passionate frontend developer,machine learning engineer</h3>
 
 - 🔭 I’m currently working on **react.js**,**Deep learning**
 
